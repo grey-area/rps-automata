@@ -7,7 +7,7 @@ Useage:
 
 ``python rps_automata.py --width <grid width> --height <grid height> --num-colours <number of states> --neighbour-threshold <neighbours needed for state transition> --seconds <number of seconds at 15 FPS>``
 
-This will render frames in the ``frames`` directory, which can then me make into a video by
+This will render frames in the ``frames`` directory, which can then be made into a video by
 running the ``make_video.sh`` script (requires ffmpeg).
 
 ![](example.gif)
